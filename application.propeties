@@ -1,0 +1,5 @@
+spring.profiles=dev
+spring.application.name=microservice-config-dev
+
+spring.profiles=test
+spring.application.name=microservice-config-test
