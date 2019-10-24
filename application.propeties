@@ -1,5 +1,4 @@
-spring.profiles=dev
-spring.application.name=microservice-config-dev
-
-spring.profiles=test
-spring.application.name=microservice-config-test
+db.type=mysql
+db.url=jdbc:mysql://localhost:3306/seckill
+db.username=wh
+db.pwd=12345
