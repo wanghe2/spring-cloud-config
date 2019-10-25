@@ -1,0 +1,1 @@
+config 配置中心，有多个配置文件，项目根据需要，通过spring.cloud.config.profile 属性去选择读取对应的配置信息
